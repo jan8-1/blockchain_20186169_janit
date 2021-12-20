@@ -71,4 +71,4 @@ const distribute = async() => {
 }
 
 distribute()
-//module.exports = { distribute }
+// module.exports = { distribute }
